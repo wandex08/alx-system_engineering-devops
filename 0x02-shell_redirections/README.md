@@ -1,6 +1,7 @@
 All of the following files are scripts:
 
-Name of file	             Description
+Name of file Description \n
+
 0-hell world	        Prints "Hello, World", followed by a new line to the standard output
 1-confused smiley       Displays a confused smiley "(Ôo)'
 2-hellofile	        Displays the content of the /etc/passwdfile
